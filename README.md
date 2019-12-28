@@ -1,4 +1,4 @@
-# Stock-analysis-predictor
+# S&P 500 Stock Price Predictor
 
 My target audience for this dataset would be :- Investors, Competitors, Stock brokers and financial advisors. I have analyzed the growth and performance of top 5 and worst 5 performing companies. I have also analysed Bank of America's stock performance from Feb 2013 to Feb 2018 on the basis of below mentioned points:
 
